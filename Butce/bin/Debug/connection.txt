@@ -1,0 +1,1 @@
+Data Source=DESKTOP-B9K9IQU\SQLEXPRESS01;Initial Catalog=Harcama;Integrated Security=True

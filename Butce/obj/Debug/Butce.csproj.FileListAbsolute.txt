@@ -1,0 +1,35 @@
+Z:\Erd\Butce\Butce\bin\Debug\Butce.exe.config
+Z:\Erd\Butce\Butce\bin\Debug\Butce.exe
+Z:\Erd\Butce\Butce\bin\Debug\Butce.pdb
+Z:\Erd\Butce\Butce\obj\Debug\Butce.csproj.AssemblyReference.cache
+Z:\Erd\Butce\Butce\obj\Debug\Butce.Properties.Resources.resources
+Z:\Erd\Butce\Butce\obj\Debug\Butce.csproj.GenerateResource.cache
+Z:\Erd\Butce\Butce\obj\Debug\Butce.csproj.CoreCompileInputs.cache
+Z:\Erd\Butce\Butce\obj\Debug\Butce.exe
+Z:\Erd\Butce\Butce\obj\Debug\Butce.pdb
+Z:\Erd\Butce\Butce\obj\Debug\Butce.FrmAna.resources
+Z:\Erd\Butce\Butce\obj\Debug\Butce.FrmHarcamaDetay.resources
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\bin\Debug\Butce.exe.config
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\bin\Debug\Butce.exe
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\bin\Debug\Butce.pdb
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.FrmAna.resources
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.FrmHarcamaDetay.resources
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.exe
+C:\Users\user\OneDrive\Masaüstü\Butce\Butce\obj\Debug\Butce.pdb
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\bin\Debug\Butce.exe.config
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\bin\Debug\Butce.exe
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\bin\Debug\Butce.pdb
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.FrmAna.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.FrmHarcamaDetay.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.exe
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\Butce\Butce\obj\Debug\Butce.pdb
